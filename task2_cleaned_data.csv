@@ -1,0 +1,405 @@
+checkout_id,member_id,first_name,last_name,grade,neighborhood,membership_status,join_date,book_id,checkout_date,return_date,genre,pages,publication_year,publisher,source
+9263.0,1047,Sara,Rashad,,Heliopolis,Inactive,2024-06-25,517,2024-10-21,2024-11-07,Mystery,338,2015.0,Delta House,Library Database + JSON
+9340.0,1072,Seif,Zaki,9.0,Zamalek,Active,2025-10-21,513,2025-08-24,2025-09-01,Science,294,2021.0,Oasis Books,Library Database + JSON
+9231.0,1053,Adam,Shafik,9.0,Heliopolis,Active,2024-01-03,523,2024-02-04,2024-02-16,Historical,276,2018.0,Oasis Books,Library Database + JSON
+9129.0,1032,Nada,Zaki,7.0,Nasr City,Active,2025-10-19,513,2025-06-21,2025-06-29,Science,294,2021.0,Oasis Books,Library Database + JSON
+9370.0,1079,Rana,Osman,8.0,Shubra,Active,2024-10-27,511,2025-11-11,2025-12-03,Historical,117,2016.0,Nile Press,Library Database + JSON
+9082.0,1010,Nour,Nabil,6.0,Maadi,Active,2024-05-15,528,2025-11-11,2025-11-18,Nature,114,2010.0,Delta House,Library Database + JSON
+9238.0,1057,Ahmed,Fahmy,8.0,Heliopolis,Active,2024-01-12,513,2024-03-28,2024-04-08,Science,294,2021.0,Oasis Books,Library Database + JSON
+9012.0,1010,Nour,Nabil,6.0,Maadi,Active,2024-05-15,501,2025-02-17,,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9127.0,1024,Youssef,Hegazy,8.0,Nasr City,Inactive,2024-01-04,506,2025-06-13,,Friendship,183,,Nile Press,Library Database + JSON
+9020.0,1016,Dina,Rashad,8.0,Maadi,Active,2023-04-24,506,2024-04-15,2024-05-04,Friendship,183,,Nile Press,Library Database + JSON
+9208.0,1044,Sherif,Saleh,7.0,Heliopolis,Active,2024-02-19,525,2024-07-10,2024-08-01,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9319.0,1065,Adam,Fahmy,6.0,Zamalek,Active,2025-07-12,515,2025-02-10,2025-02-21,Poetry,316,2022.0,Cairo Young Readers,Library Database + JSON
+9097.0,1018,Ahmed,Shafik,9.0,Maadi,Active,2023-01-28,501,2025-10-05,2025-10-14,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9137.0,1041,Nada,Rashad,7.0,Nasr City,Active,2024-04-02,519,2025-07-27,2025-08-05,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9157.0,1032,Nada,Zaki,7.0,Nasr City,Active,2025-10-19,525,2024-03-04,2024-04-03,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9383.0,1070,Ahmed,Zaki,9.0,Zamalek,Active,2025-07-22,501,2024-07-11,2024-07-31,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9131.0,1034,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,505,2025-12-16,2025-12-25,Historical,216,2024.0,Oasis Books,Library Database + JSON
+9113.0,1027,Mostafa,Fouad,9.0,Nasr City,Active,2023-09-25,507,2024-06-26,2024-07-08,Science,160,2024.0,Nile Press,Library Database + JSON
+9144.0,1024,Youssef,Hegazy,8.0,Nasr City,Inactive,2024-01-04,501,2025-11-07,2025-11-25,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9005.0,1008,Ziad,Saleh,8.0,Maadi,Active,2025-10-28,513,2025-04-20,2025-04-29,Science,294,2021.0,Oasis Books,Library Database + JSON
+9272.0,1044,Sherif,Saleh,7.0,Heliopolis,Active,2024-02-19,518,2025-01-24,2025-02-04,Adventure,163,2011.0,Delta House,Library Database + JSON
+9283.0,1072,Seif,Zaki,9.0,Zamalek,Active,2025-10-21,513,2025-09-17,2025-09-25,Science,294,2021.0,Oasis Books,Library Database + JSON
+9030.0,1018,Ahmed,Shafik,9.0,Maadi,Active,2023-01-28,507,2025-03-09,,Science,160,2024.0,Nile Press,Library Database + JSON
+9291.0,1065,Adam,Fahmy,6.0,Zamalek,Active,2025-07-12,526,2024-03-25,2024-03-31,Science Fiction,125,2016.0,Delta House,Library Database + JSON
+9369.0,1076,Dina,Wahba,7.0,Shubra,Active,2025-12-13,501,2025-06-05,,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9225.0,1059,Lina,Halim,7.0,Heliopolis,Active,2024-01-06,516,2025-08-06,2025-08-22,Nature,241,2010.0,Nile Press,Library Database + JSON
+9256.0,1059,Lina,Halim,7.0,Heliopolis,Active,2024-01-06,521,2025-07-09,,Science,211,2024.0,Cairo Young Readers,Library Database + JSON
+9234.0,1053,Adam,Shafik,9.0,Heliopolis,Active,2024-01-03,525,2024-02-13,2024-03-06,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9152.0,1030,Reem,Osman,,Nasr City,Active,2025-04-01,525,2025-01-03,,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9063.0,1018,Ahmed,Shafik,9.0,Maadi,Active,2023-01-28,515,2024-10-22,,Poetry,316,2022.0,Cairo Young Readers,Library Database + JSON
+9161.0,1040,Dina,Adel,9.0,Nasr City,Active,2025-12-26,519,2025-10-11,2025-11-01,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9206.0,1050,Fares,Adel,6.0,Heliopolis,Inactive,2025-09-10,519,2024-03-17,,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9031.0,1020,Rana,Fouad,6.0,Maadi,Active,2025-12-04,530,2025-12-28,2026-01-05,Adventure,208,2012.0,Oasis Books,Library Database + JSON
+9189.0,1032,Nada,Zaki,7.0,Nasr City,Active,2025-10-19,507,2025-12-08,2025-12-16,Science,160,2024.0,Nile Press,Library Database + JSON
+9288.0,1065,Adam,Fahmy,6.0,Zamalek,Active,2025-07-12,519,2025-03-20,2025-03-31,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9236.0,1052,Retaj,Adel,7.0,Heliopolis,Active,2025-06-07,507,2024-09-02,2024-09-29,Science,160,2024.0,Nile Press,Library Database + JSON
+9360.0,1077,Lina,Rashad,6.0,Shubra,Active,2023-07-08,520,2024-03-04,2024-03-16,Science Fiction,136,2009.0,Oasis Books,Library Database + JSON
+9111.0,1027,Mostafa,Fouad,9.0,Nasr City,Active,2023-09-25,510,2024-09-12,2024-10-03,Mystery,134,2013.0,Cairo Young Readers,Library Database + JSON
+9342.0,1068,Layla,Hegazy,8.0,Zamalek,Inactive,2025-02-24,501,2025-05-28,2025-06-27,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9380.0,1022,Youssef,Fouad,7.0,Maadi,Active,2025-02-28,513,2024-04-22,2024-04-28,Science,294,2021.0,Oasis Books,Library Database + JSON
+9302.0,1061,Ziad,Fahmy,9.0,Zamalek,Inactive,2023-04-27,507,2024-06-22,,Science,160,2024.0,Nile Press,Library Database + JSON
+9173.0,1027,Mostafa,Fouad,9.0,Nasr City,Active,2023-09-25,532,2025-03-10,2025-04-06,Friendship,337,2017.0,Oasis Books,Library Database + JSON
+9019.0,1014,Habiba,Nabil,6.0,Maadi,Active,2024-07-09,513,2024-03-06,2024-03-23,Science,294,2021.0,Oasis Books,Library Database + JSON
+9143.0,1024,Youssef,Hegazy,8.0,Nasr City,Inactive,2024-01-04,518,2025-10-02,,Adventure,163,2011.0,Delta House,Library Database + JSON
+9222.0,1050,Fares,Adel,6.0,Heliopolis,Inactive,2025-09-10,505,2024-01-09,2024-02-01,Historical,216,2024.0,Oasis Books,Library Database + JSON
+9101.0,1020,Rana,Fouad,6.0,Maadi,Active,2025-12-04,532,2025-05-25,2025-06-15,Friendship,337,2017.0,Oasis Books,Library Database + JSON
+9316.0,1065,Adam,Fahmy,6.0,Zamalek,Active,2025-07-12,513,2024-08-25,2024-09-17,Science,294,2021.0,Oasis Books,Library Database + JSON
+9148.0,1027,Mostafa,Fouad,9.0,Nasr City,Active,2023-09-25,532,2025-07-05,2025-07-26,Friendship,337,2017.0,Oasis Books,Library Database + JSON
+9070.0,1018,Ahmed,Shafik,9.0,Maadi,Active,2023-01-28,513,2025-01-08,2025-02-01,Science,294,2021.0,Oasis Books,Library Database + JSON
+9139.0,1036,Lina,Zaki,7.0,Nasr City,Active,2025-08-05,521,2024-03-14,2024-03-20,Science,211,2024.0,Cairo Young Readers,Library Database + JSON
+9043.0,1005,Youssef,Halim,9.0,Maadi,Active,2024-05-05,505,2024-01-26,2024-02-04,Historical,216,2024.0,Oasis Books,Library Database + JSON
+9187.0,1034,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,502,2024-08-11,,Adventure,109,2018.0,Delta House,Library Database + JSON
+9269.0,1054,Retaj,Fahmy,6.0,Heliopolis,Inactive,2024-03-21,507,2025-01-26,2025-01-31,Science,160,2024.0,Nile Press,Library Database + JSON
+9056.0,1010,Nour,Nabil,6.0,Maadi,Active,2024-05-15,519,2025-07-11,2025-07-27,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9057.0,1020,Rana,Fouad,6.0,Maadi,Active,2025-12-04,519,2025-02-03,,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9140.0,1034,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,513,2025-03-06,2025-04-02,Science,294,2021.0,Oasis Books,Library Database + JSON
+9209.0,1058,Lina,Mansour,8.0,Heliopolis,Active,2025-07-20,525,2024-11-22,2024-12-12,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9249.0,1057,Ahmed,Fahmy,8.0,Heliopolis,Active,2024-01-12,519,2024-10-17,2024-11-03,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9058.0,1006,Layla,Mansour,6.0,Maadi,Inactive,2024-02-12,501,2025-03-18,2025-04-09,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9366.0,1079,Rana,Osman,8.0,Shubra,Active,2024-10-27,503,2024-06-23,2024-07-23,Historical,259,,Nile Press,Library Database + JSON
+9218.0,1044,Sherif,Saleh,7.0,Heliopolis,Active,2024-02-19,532,2025-04-23,2025-05-04,Friendship,337,2017.0,Oasis Books,Library Database + JSON
+9355.0,1075,Malak,Fahmy,7.0,Shubra,Active,2024-10-28,515,2024-11-10,2024-12-02,Poetry,316,2022.0,Cairo Young Readers,Library Database + JSON
+9205.0,1053,Adam,Shafik,9.0,Heliopolis,Active,2024-01-03,525,2024-12-02,2024-12-14,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9025.0,1001,Salma,Ibrahim,8.0,Maadi,Active,2023-04-05,525,2024-10-24,2024-11-07,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9124.0,1024,Youssef,Hegazy,8.0,Nasr City,Inactive,2024-01-04,525,2025-10-14,2025-11-13,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9034.0,1015,Hamza,Sabry,7.0,Maadi,Inactive,2025-08-13,511,2025-10-13,,Historical,117,2016.0,Nile Press,Library Database + JSON
+9181.0,1041,Nada,Rashad,7.0,Nasr City,Active,2024-04-02,509,2025-03-24,,Mystery,221,2011.0,Nile Press,Library Database + JSON
+9171.0,1027,Mostafa,Fouad,9.0,Nasr City,Active,2023-09-25,507,2025-05-23,2025-06-19,Science,160,2024.0,Nile Press,Library Database + JSON
+9318.0,1067,Aya,Ibrahim,7.0,Zamalek,Inactive,2024-07-03,513,2025-07-23,2025-08-17,Science,294,2021.0,Oasis Books,Library Database + JSON
+9296.0,1065,Adam,Fahmy,6.0,Zamalek,Active,2025-07-12,501,2024-12-15,2025-01-11,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9348.0,1075,Malak,Fahmy,7.0,Shubra,Active,2024-10-28,532,2024-07-28,2024-08-25,Friendship,337,2017.0,Oasis Books,Library Database + JSON
+9141.0,1027,Mostafa,Fouad,9.0,Nasr City,Active,2023-09-25,529,2025-02-09,2025-03-03,Mystery,298,,Cairo Young Readers,Library Database + JSON
+9094.0,1022,Youssef,Fouad,7.0,Maadi,Active,2025-02-28,527,2024-11-22,2024-12-08,Nature,328,2017.0,Delta House,Library Database + JSON
+9280.0,1054,Retaj,Fahmy,6.0,Heliopolis,Inactive,2024-03-21,517,2024-09-06,2024-09-15,Mystery,338,2015.0,Delta House,Library Database + JSON
+9211.0,1044,Sherif,Saleh,7.0,Heliopolis,Active,2024-02-19,507,2025-04-28,2025-05-25,Science,160,2024.0,Nile Press,Library Database + JSON
+9294.0,1067,Aya,Ibrahim,7.0,Zamalek,Inactive,2024-07-03,507,2024-11-26,,Science,160,2024.0,Nile Press,Library Database + JSON
+9372.0,1076,Dina,Wahba,7.0,Shubra,Active,2025-12-13,519,2025-03-06,2025-04-02,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9112.0,1031,Ali,Fahmy,8.0,Nasr City,Active,2023-09-08,521,2024-07-28,2024-08-22,Science,211,2024.0,Cairo Young Readers,Library Database + JSON
+9001.0,1008,Ziad,Saleh,8.0,Maadi,Active,2025-10-28,501,2025-08-23,2025-08-28,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9328.0,1070,Ahmed,Zaki,9.0,Zamalek,Active,2025-07-22,501,2024-01-28,,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9075.0,1018,Ahmed,Shafik,9.0,Maadi,Active,2023-01-28,510,2024-07-01,,Mystery,134,2013.0,Cairo Young Readers,Library Database + JSON
+9149.0,1032,Nada,Zaki,7.0,Nasr City,Active,2025-10-19,507,2025-02-09,2025-02-18,Science,160,2024.0,Nile Press,Library Database + JSON
+9165.0,1030,Reem,Osman,,Nasr City,Active,2025-04-01,519,2025-03-27,2025-04-02,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9255.0,1044,Sherif,Saleh,7.0,Heliopolis,Active,2024-02-19,509,2025-05-24,2025-06-13,Mystery,221,2011.0,Nile Press,Library Database + JSON
+9304.0,1068,Layla,Hegazy,8.0,Zamalek,Inactive,2025-02-24,519,2024-04-16,2024-05-09,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9322.0,1061,Ziad,Fahmy,9.0,Zamalek,Inactive,2023-04-27,510,2025-10-20,2025-11-15,Mystery,134,2013.0,Cairo Young Readers,Library Database + JSON
+9317.0,1061,Ziad,Fahmy,9.0,Zamalek,Inactive,2023-04-27,507,2024-01-26,2024-02-09,Science,160,2024.0,Nile Press,Library Database + JSON
+9271.0,1044,Sherif,Saleh,7.0,Heliopolis,Active,2024-02-19,513,2025-04-26,2025-05-06,Science,294,2021.0,Oasis Books,Library Database + JSON
+9186.0,1034,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,516,2025-07-17,2025-08-03,Nature,241,2010.0,Nile Press,Library Database + JSON
+9333.0,1072,Seif,Zaki,9.0,Zamalek,Active,2025-10-21,520,2025-06-03,2025-06-08,Science Fiction,136,2009.0,Oasis Books,Library Database + JSON
+9188.0,1023,Hassan,Rashad,8.0,Nasr City,Inactive,,507,2025-05-11,2025-06-08,Science,160,2024.0,Nile Press,Library Database + JSON
+9371.0,1079,Rana,Osman,8.0,Shubra,Active,2024-10-27,528,2025-04-22,2025-05-02,Nature,114,2010.0,Delta House,Library Database + JSON
+9036.0,1010,Nour,Nabil,6.0,Maadi,Active,2024-05-15,515,2024-11-27,2024-12-24,Poetry,316,2022.0,Cairo Young Readers,Library Database + JSON
+9163.0,1034,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,531,2025-12-28,2026-01-02,Friendship,272,2018.0,Oasis Books,Library Database + JSON
+9091.0,1008,Ziad,Saleh,8.0,Maadi,Active,2025-10-28,525,2024-06-03,2024-06-12,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9092.0,1019,Mostafa,Wahba,6.0,Maadi,Inactive,2024-07-20,507,2025-03-20,2025-03-27,Science,160,2024.0,Nile Press,Library Database + JSON
+9040.0,1016,Dina,Rashad,8.0,Maadi,Active,2023-04-24,529,2025-01-23,2025-02-11,Mystery,298,,Cairo Young Readers,Library Database + JSON
+9376.0,1024,Youssef,Hegazy,8.0,Nasr City,Inactive,2024-01-04,518,2025-10-22,2025-11-04,Adventure,163,2011.0,Delta House,Library Database + JSON
+9033.0,1020,Rana,Fouad,6.0,Maadi,Active,2025-12-04,522,2025-02-26,2025-03-11,Mystery,104,2016.0,Cairo Young Readers,Library Database + JSON
+9341.0,1065,Adam,Fahmy,6.0,Zamalek,Active,2025-07-12,516,2025-02-19,2025-03-09,Nature,241,2010.0,Nile Press,Library Database + JSON
+9247.0,1044,Sherif,Saleh,7.0,Heliopolis,Active,2024-02-19,510,2025-02-01,2025-02-23,Mystery,134,2013.0,Cairo Young Readers,Library Database + JSON
+9184.0,1026,Nada,Saleh,7.0,Nasr City,Inactive,2023-11-16,501,2024-12-15,2025-01-11,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9228.0,1044,Sherif,Saleh,7.0,Heliopolis,Active,2024-02-19,516,2024-12-05,2024-12-26,Nature,241,2010.0,Nile Press,Library Database + JSON
+9331.0,1065,Adam,Fahmy,6.0,Zamalek,Active,2025-07-12,525,2025-02-17,2025-02-23,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9207.0,1044,Sherif,Saleh,7.0,Heliopolis,Active,2024-02-19,527,2025-10-20,2025-11-04,Nature,328,2017.0,Delta House,Library Database + JSON
+9323.0,1072,Seif,Zaki,9.0,Zamalek,Active,2025-10-21,519,2024-01-23,2024-01-28,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9337.0,1072,Seif,Zaki,9.0,Zamalek,Active,2025-10-21,529,2024-11-13,,Mystery,298,,Cairo Young Readers,Library Database + JSON
+9326.0,1062,Tarek,Adel,7.0,Zamalek,Active,2023-01-22,501,2024-08-15,2024-08-21,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9128.0,1024,Youssef,Hegazy,8.0,Nasr City,Inactive,2024-01-04,501,2025-06-12,2025-06-19,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9123.0,1027,Mostafa,Fouad,9.0,Nasr City,Active,2023-09-25,511,2025-03-23,2025-04-11,Historical,117,2016.0,Nile Press,Library Database + JSON
+9003.0,1015,Hamza,Sabry,7.0,Maadi,Inactive,2025-08-13,501,2024-08-04,2024-08-13,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9066.0,1005,Youssef,Halim,9.0,Maadi,Active,2024-05-05,513,2025-07-15,2025-07-31,Science,294,2021.0,Oasis Books,Library Database + JSON
+9053.0,1008,Ziad,Saleh,8.0,Maadi,Active,2025-10-28,516,2025-07-20,2025-08-08,Nature,241,2010.0,Nile Press,Library Database + JSON
+9052.0,1019,Mostafa,Wahba,6.0,Maadi,Inactive,2024-07-20,501,2024-06-20,2024-06-29,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9162.0,1030,Reem,Osman,,Nasr City,Active,2025-04-01,519,2025-08-27,2025-09-11,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9027.0,1018,Ahmed,Shafik,9.0,Maadi,Active,2023-01-28,519,2024-11-04,,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9194.0,1024,Youssef,Hegazy,8.0,Nasr City,Inactive,2024-01-04,513,2024-09-17,2024-10-09,Science,294,2021.0,Oasis Books,Library Database + JSON
+9120.0,1034,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,526,2025-06-06,2025-06-26,Science Fiction,125,2016.0,Delta House,Library Database + JSON
+9182.0,1037,Retaj,Kamel,,Nasr City,Inactive,2023-08-26,525,2024-05-19,2024-06-03,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9241.0,1059,Lina,Halim,7.0,Heliopolis,Active,2024-01-06,519,2025-01-04,2025-01-11,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9172.0,1030,Reem,Osman,,Nasr City,Active,2025-04-01,513,2025-05-04,2025-05-26,Science,294,2021.0,Oasis Books,Library Database + JSON
+9193.0,1034,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,519,2024-09-15,2024-10-01,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9100.0,1010,Nour,Nabil,6.0,Maadi,Active,2024-05-15,513,2025-08-27,2025-09-22,Science,294,2021.0,Oasis Books,Library Database + JSON
+9227.0,1059,Lina,Halim,7.0,Heliopolis,Active,2024-01-06,513,2024-11-02,2024-11-20,Science,294,2021.0,Oasis Books,Library Database + JSON
+9110.0,1030,Reem,Osman,,Nasr City,Active,2025-04-01,506,2024-05-14,2024-05-30,Friendship,183,,Nile Press,Library Database + JSON
+9021.0,1008,Ziad,Saleh,8.0,Maadi,Active,2025-10-28,501,2025-05-22,2025-05-29,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9007.0,1008,Ziad,Saleh,8.0,Maadi,Active,2025-10-28,507,2025-03-15,2025-03-31,Science,160,2024.0,Nile Press,Library Database + JSON
+9365.0,1075,Malak,Fahmy,7.0,Shubra,Active,2024-10-28,501,2024-01-17,2024-02-01,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9142.0,1027,Mostafa,Fouad,9.0,Nasr City,Active,2023-09-25,516,2024-09-21,2024-10-14,Nature,241,2010.0,Nile Press,Library Database + JSON
+9073.0,1008,Ziad,Saleh,8.0,Maadi,Active,2025-10-28,513,2025-02-13,,Science,294,2021.0,Oasis Books,Library Database + JSON
+9024.0,1010,Nour,Nabil,6.0,Maadi,Active,2024-05-15,507,2025-01-27,2025-02-09,Science,160,2024.0,Nile Press,Library Database + JSON
+9067.0,1008,Ziad,Saleh,8.0,Maadi,Active,2025-10-28,507,2024-01-05,2024-01-29,Science,160,2024.0,Nile Press,Library Database + JSON
+9324.0,1061,Ziad,Fahmy,9.0,Zamalek,Inactive,2023-04-27,529,2025-03-12,2025-04-10,Mystery,298,,Cairo Young Readers,Library Database + JSON
+9250.0,1044,Sherif,Saleh,7.0,Heliopolis,Active,2024-02-19,507,2025-08-05,2025-08-23,Science,160,2024.0,Nile Press,Library Database + JSON
+9090.0,1016,Dina,Rashad,8.0,Maadi,Active,2023-04-24,507,2025-02-18,2025-03-04,Science,160,2024.0,Nile Press,Library Database + JSON
+9198.0,1027,Mostafa,Fouad,9.0,Nasr City,Active,2023-09-25,524,2024-10-03,2024-10-19,Historical,114,2016.0,Cairo Young Readers,Library Database + JSON
+9046.0,1022,Youssef,Fouad,7.0,Maadi,Active,2025-02-28,513,2024-02-22,,Science,294,2021.0,Oasis Books,Library Database + JSON
+9115.0,1034,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,502,2025-12-16,2026-01-15,Adventure,109,2018.0,Delta House,Library Database + JSON
+9310.0,1067,Aya,Ibrahim,7.0,Zamalek,Inactive,2024-07-03,511,2024-02-04,2024-02-12,Historical,117,2016.0,Nile Press,Library Database + JSON
+9357.0,1077,Lina,Rashad,6.0,Shubra,Active,2023-07-08,516,2024-07-26,2024-08-15,Nature,241,2010.0,Nile Press,Library Database + JSON
+9286.0,1072,Seif,Zaki,9.0,Zamalek,Active,2025-10-21,507,2024-08-09,2024-08-16,Science,160,2024.0,Nile Press,Library Database + JSON
+9354.0,1079,Rana,Osman,8.0,Shubra,Active,2024-10-27,502,2024-03-09,2024-03-18,Adventure,109,2018.0,Delta House,Library Database + JSON
+9290.0,1065,Adam,Fahmy,6.0,Zamalek,Active,2025-07-12,519,2025-10-09,,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9257.0,1047,Sara,Rashad,,Heliopolis,Inactive,2024-06-25,501,2024-10-18,2024-11-16,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9261.0,1047,Sara,Rashad,,Heliopolis,Inactive,2024-06-25,509,2025-09-02,2025-09-18,Mystery,221,2011.0,Nile Press,Library Database + JSON
+9119.0,1024,Youssef,Hegazy,8.0,Nasr City,Inactive,2024-01-04,518,2025-02-26,2025-03-15,Adventure,163,2011.0,Delta House,Library Database + JSON
+9313.0,1068,Layla,Hegazy,8.0,Zamalek,Inactive,2025-02-24,507,2024-12-13,2024-12-19,Science,160,2024.0,Nile Press,Library Database + JSON
+9213.0,1050,Fares,Adel,6.0,Heliopolis,Inactive,2025-09-10,501,2024-05-07,2024-05-14,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9051.0,1003,Bassel,Hegazy,6.0,Maadi,Active,2025-04-23,513,2025-07-22,2025-08-18,Science,294,2021.0,Oasis Books,Library Database + JSON
+9093.0,1008,Ziad,Saleh,8.0,Maadi,Active,2025-10-28,507,2025-03-22,2025-04-19,Science,160,2024.0,Nile Press,Library Database + JSON
+9274.0,1054,Retaj,Fahmy,6.0,Heliopolis,Inactive,2024-03-21,522,2024-09-06,2024-09-17,Mystery,104,2016.0,Cairo Young Readers,Library Database + JSON
+9292.0,1074,Mostafa,Saleh,8.0,Zamalek,Active,2025-11-21,525,2024-12-28,2025-01-06,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9009.0,1022,Youssef,Fouad,7.0,Maadi,Active,2025-02-28,506,2025-04-28,2025-05-04,Friendship,183,,Nile Press,Library Database + JSON
+9064.0,1008,Ziad,Saleh,8.0,Maadi,Active,2025-10-28,502,2025-06-12,2025-06-21,Adventure,109,2018.0,Delta House,Library Database + JSON
+9169.0,1030,Reem,Osman,,Nasr City,Active,2025-04-01,513,2025-11-25,,Science,294,2021.0,Oasis Books,Library Database + JSON
+9358.0,1077,Lina,Rashad,6.0,Shubra,Active,2023-07-08,513,2025-07-09,2025-07-24,Science,294,2021.0,Oasis Books,Library Database + JSON
+9297.0,1065,Adam,Fahmy,6.0,Zamalek,Active,2025-07-12,501,2025-04-14,,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9214.0,1058,Lina,Mansour,8.0,Heliopolis,Active,2025-07-20,525,2024-09-24,,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9008.0,1010,Nour,Nabil,6.0,Maadi,Active,2024-05-15,520,2025-08-11,,Science Fiction,136,2009.0,Oasis Books,Library Database + JSON
+9237.0,1057,Ahmed,Fahmy,8.0,Heliopolis,Active,2024-01-12,513,2024-02-22,,Science,294,2021.0,Oasis Books,Library Database + JSON
+9303.0,1061,Ziad,Fahmy,9.0,Zamalek,Inactive,2023-04-27,509,2025-12-23,2026-01-10,Mystery,221,2011.0,Nile Press,Library Database + JSON
+9338.0,1072,Seif,Zaki,9.0,Zamalek,Active,2025-10-21,501,2024-07-16,,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9343.0,1075,Malak,Fahmy,7.0,Shubra,Active,2024-10-28,529,2024-10-04,2024-10-14,Mystery,298,,Cairo Young Readers,Library Database + JSON
+9130.0,1024,Youssef,Hegazy,8.0,Nasr City,Inactive,2024-01-04,503,2025-09-04,2025-09-17,Historical,259,,Nile Press,Library Database + JSON
+9192.0,1027,Mostafa,Fouad,9.0,Nasr City,Active,2023-09-25,519,2025-09-26,2025-10-07,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9017.0,1018,Ahmed,Shafik,9.0,Maadi,Active,2023-01-28,519,2024-08-06,2024-08-11,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9266.0,1053,Adam,Shafik,9.0,Heliopolis,Active,2024-01-03,519,2024-06-01,2024-06-15,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9132.0,1035,Karim,Fahmy,9.0,Nasr City,Inactive,2025-06-26,511,2025-02-26,2025-03-13,Historical,117,2016.0,Nile Press,Library Database + JSON
+9015.0,1010,Nour,Nabil,6.0,Maadi,Active,2024-05-15,507,2025-09-02,2025-09-14,Science,160,2024.0,Nile Press,Library Database + JSON
+9362.0,1079,Rana,Osman,8.0,Shubra,Active,2024-10-27,507,2024-03-08,2024-04-07,Science,160,2024.0,Nile Press,Library Database + JSON
+9262.0,1054,Retaj,Fahmy,6.0,Heliopolis,Inactive,2024-03-21,524,2024-02-25,2024-03-22,Historical,114,2016.0,Cairo Young Readers,Library Database + JSON
+9336.0,1061,Ziad,Fahmy,9.0,Zamalek,Inactive,2023-04-27,528,2024-04-18,2024-05-15,Nature,114,2010.0,Delta House,Library Database + JSON
+9105.0,1027,Mostafa,Fouad,9.0,Nasr City,Active,2023-09-25,501,2025-03-05,2025-03-25,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9055.0,1015,Hamza,Sabry,7.0,Maadi,Inactive,2025-08-13,525,2025-08-08,2025-08-27,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9183.0,1027,Mostafa,Fouad,9.0,Nasr City,Active,2023-09-25,532,2025-03-28,2025-04-10,Friendship,337,2017.0,Oasis Books,Library Database + JSON
+9049.0,1010,Nour,Nabil,6.0,Maadi,Active,2024-05-15,514,2025-09-08,,Science Fiction,328,2023.0,Cairo Young Readers,Library Database + JSON
+9307.0,1072,Seif,Zaki,9.0,Zamalek,Active,2025-10-21,501,2025-06-10,2025-07-09,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9166.0,1032,Nada,Zaki,7.0,Nasr City,Active,2025-10-19,519,2024-01-15,2024-01-24,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9155.0,1028,Hassan,Adel,9.0,Nasr City,Active,2025-11-12,525,2025-07-12,2025-07-18,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9240.0,1050,Fares,Adel,6.0,Heliopolis,Inactive,2025-09-10,525,2025-07-25,2025-08-24,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9197.0,1030,Reem,Osman,,Nasr City,Active,2025-04-01,501,2025-11-26,2025-12-01,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9375.0,1034,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,525,2025-10-27,2025-11-15,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9114.0,1034,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,516,2025-03-02,2025-03-17,Nature,241,2010.0,Nile Press,Library Database + JSON
+9077.0,1008,Ziad,Saleh,8.0,Maadi,Active,2025-10-28,514,2024-07-28,2024-08-12,Science Fiction,328,2023.0,Cairo Young Readers,Library Database + JSON
+9260.0,1044,Sherif,Saleh,7.0,Heliopolis,Active,2024-02-19,518,2025-07-03,2025-07-27,Adventure,163,2011.0,Delta House,Library Database + JSON
+9059.0,1016,Dina,Rashad,8.0,Maadi,Active,2023-04-24,518,2025-06-28,2025-07-27,Adventure,163,2011.0,Delta House,Library Database + JSON
+9332.0,1062,Tarek,Adel,7.0,Zamalek,Active,2023-01-22,522,2024-07-03,,Mystery,104,2016.0,Cairo Young Readers,Library Database + JSON
+9378.0,1018,Ahmed,Shafik,9.0,Maadi,Active,2023-01-28,501,2024-09-05,2024-09-21,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9179.0,1027,Mostafa,Fouad,9.0,Nasr City,Active,2023-09-25,517,2024-11-19,2024-12-17,Mystery,338,2015.0,Delta House,Library Database + JSON
+9126.0,1034,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,529,2024-10-22,2024-10-28,Mystery,298,,Cairo Young Readers,Library Database + JSON
+9072.0,1007,Sherif,Fouad,6.0,Maadi,Active,2025-08-18,513,2025-03-05,2025-04-01,Science,294,2021.0,Oasis Books,Library Database + JSON
+9080.0,1008,Ziad,Saleh,8.0,Maadi,Active,2025-10-28,501,2024-03-20,2024-04-18,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9298.0,1065,Adam,Fahmy,6.0,Zamalek,Active,2025-07-12,507,2025-06-18,2025-07-11,Science,160,2024.0,Nile Press,Library Database + JSON
+9087.0,1020,Rana,Fouad,6.0,Maadi,Active,2025-12-04,511,2025-12-03,2025-12-13,Historical,117,2016.0,Nile Press,Library Database + JSON
+9006.0,1018,Ahmed,Shafik,9.0,Maadi,Active,2023-01-28,507,2025-06-26,2025-07-01,Science,160,2024.0,Nile Press,Library Database + JSON
+9309.0,1068,Layla,Hegazy,8.0,Zamalek,Inactive,2025-02-24,511,2024-11-24,2024-12-12,Historical,117,2016.0,Nile Press,Library Database + JSON
+9069.0,1010,Nour,Nabil,6.0,Maadi,Active,2024-05-15,505,2024-06-14,2024-07-10,Historical,216,2024.0,Oasis Books,Library Database + JSON
+9216.0,1050,Fares,Adel,6.0,Heliopolis,Inactive,2025-09-10,519,2024-08-07,,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9191.0,1027,Mostafa,Fouad,9.0,Nasr City,Active,2023-09-25,505,2024-08-05,2024-08-29,Historical,216,2024.0,Oasis Books,Library Database + JSON
+9013.0,1002,Fares,Saleh,9.0,Maadi,Active,,501,2024-02-16,2024-02-29,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9061.0,1016,Dina,Rashad,8.0,Maadi,Active,2023-04-24,505,2025-04-28,2025-05-20,Historical,216,2024.0,Oasis Books,Library Database + JSON
+9295.0,1061,Ziad,Fahmy,9.0,Zamalek,Inactive,2023-04-27,513,2025-12-12,2026-01-01,Science,294,2021.0,Oasis Books,Library Database + JSON
+9363.0,1079,Rana,Osman,8.0,Shubra,Active,2024-10-27,507,2024-12-23,2025-01-15,Science,160,2024.0,Nile Press,Library Database + JSON
+9102.0,1010,Nour,Nabil,6.0,Maadi,Active,2024-05-15,502,2024-10-05,,Adventure,109,2018.0,Delta House,Library Database + JSON
+9287.0,1065,Adam,Fahmy,6.0,Zamalek,Active,2025-07-12,532,2024-04-26,2024-05-23,Friendship,337,2017.0,Oasis Books,Library Database + JSON
+9330.0,1072,Seif,Zaki,9.0,Zamalek,Active,2025-10-21,513,2025-04-11,2025-05-09,Science,294,2021.0,Oasis Books,Library Database + JSON
+9178.0,1024,Youssef,Hegazy,8.0,Nasr City,Inactive,2024-01-04,518,2025-08-21,2025-09-04,Adventure,163,2011.0,Delta House,Library Database + JSON
+9175.0,1027,Mostafa,Fouad,9.0,Nasr City,Active,2023-09-25,513,2025-03-04,2025-03-27,Science,294,2021.0,Oasis Books,Library Database + JSON
+9267.0,1047,Sara,Rashad,,Heliopolis,Inactive,2024-06-25,530,2024-12-05,2024-12-20,Adventure,208,2012.0,Oasis Books,Library Database + JSON
+9159.0,1030,Reem,Osman,,Nasr City,Active,2025-04-01,501,2024-12-11,,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9037.0,1008,Ziad,Saleh,8.0,Maadi,Active,2025-10-28,509,2024-01-02,2024-01-22,Mystery,221,2011.0,Nile Press,Library Database + JSON
+9264.0,1059,Lina,Halim,7.0,Heliopolis,Active,2024-01-06,507,2025-02-01,2025-02-13,Science,160,2024.0,Nile Press,Library Database + JSON
+9254.0,1059,Lina,Halim,7.0,Heliopolis,Active,2024-01-06,501,2025-10-23,2025-11-07,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9259.0,1057,Ahmed,Fahmy,8.0,Heliopolis,Active,2024-01-12,501,2025-11-16,2025-11-30,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9010.0,1009,Hassan,Saleh,6.0,Maadi,Active,2025-04-25,513,2025-07-22,2025-08-16,Science,294,2021.0,Oasis Books,Library Database + JSON
+9347.0,1075,Malak,Fahmy,7.0,Shubra,Active,2024-10-28,519,2025-07-17,2025-07-31,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9156.0,1032,Nada,Zaki,7.0,Nasr City,Active,2025-10-19,503,2025-02-13,2025-03-14,Historical,259,,Nile Press,Library Database + JSON
+9147.0,1028,Hassan,Adel,9.0,Nasr City,Active,2025-11-12,512,2025-10-05,2025-11-01,Adventure,238,2022.0,Delta House,Library Database + JSON
+9125.0,1039,Nada,Riad,7.0,Nasr City,Active,,501,2025-06-17,,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9168.0,1030,Reem,Osman,,Nasr City,Active,2025-04-01,513,2025-09-13,2025-09-23,Science,294,2021.0,Oasis Books,Library Database + JSON
+9270.0,1057,Ahmed,Fahmy,8.0,Heliopolis,Active,2024-01-12,517,2024-12-08,2024-12-30,Mystery,338,2015.0,Delta House,Library Database + JSON
+9068.0,1003,Bassel,Hegazy,6.0,Maadi,Active,2025-04-23,501,2025-11-14,2025-12-03,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9327.0,1065,Adam,Fahmy,6.0,Zamalek,Active,2025-07-12,513,2025-03-09,2025-04-01,Science,294,2021.0,Oasis Books,Library Database + JSON
+9273.0,1047,Sara,Rashad,,Heliopolis,Inactive,2024-06-25,510,2024-12-07,2025-01-05,Mystery,134,2013.0,Cairo Young Readers,Library Database + JSON
+9301.0,1062,Tarek,Adel,7.0,Zamalek,Active,2023-01-22,519,2024-11-10,2024-11-23,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9074.0,1003,Bassel,Hegazy,6.0,Maadi,Active,2025-04-23,501,2024-06-19,2024-07-06,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9368.0,1079,Rana,Osman,8.0,Shubra,Active,2024-10-27,525,2025-02-12,2025-03-10,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9233.0,1059,Lina,Halim,7.0,Heliopolis,Active,2024-01-06,512,2024-12-08,2024-12-15,Adventure,238,2022.0,Delta House,Library Database + JSON
+9200.0,1060,Layla,Wahba,7.0,Heliopolis,Active,2024-03-26,509,2024-12-08,,Mystery,221,2011.0,Nile Press,Library Database + JSON
+9349.0,1077,Lina,Rashad,6.0,Shubra,Active,2023-07-08,501,2024-03-04,2024-04-02,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9350.0,1080,Bassel,Wahba,9.0,Shubra,Active,2023-12-28,501,2025-06-22,2025-07-17,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9345.0,1075,Malak,Fahmy,7.0,Shubra,Active,2024-10-28,507,2025-02-03,2025-03-01,Science,160,2024.0,Nile Press,Library Database + JSON
+9195.0,1024,Youssef,Hegazy,8.0,Nasr City,Inactive,2024-01-04,507,2025-02-22,2025-03-17,Science,160,2024.0,Nile Press,Library Database + JSON
+9325.0,1072,Seif,Zaki,9.0,Zamalek,Active,2025-10-21,519,2024-01-11,,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9245.0,1044,Sherif,Saleh,7.0,Heliopolis,Active,2024-02-19,519,2024-12-13,2024-12-21,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9146.0,1034,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,509,2025-02-23,2025-03-14,Mystery,221,2011.0,Nile Press,Library Database + JSON
+9379.0,1062,Tarek,Adel,7.0,Zamalek,Active,2023-01-22,501,2024-12-18,2024-12-26,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9374.0,1080,Bassel,Wahba,9.0,Shubra,Active,2023-12-28,505,2024-08-05,2024-08-12,Historical,216,2024.0,Oasis Books,Library Database + JSON
+9107.0,1024,Youssef,Hegazy,8.0,Nasr City,Inactive,2024-01-04,505,2024-09-24,2024-10-12,Historical,216,2024.0,Oasis Books,Library Database + JSON
+9029.0,1005,Youssef,Halim,9.0,Maadi,Active,2024-05-05,507,2025-03-07,2025-03-29,Science,160,2024.0,Nile Press,Library Database + JSON
+9108.0,1024,Youssef,Hegazy,8.0,Nasr City,Inactive,2024-01-04,507,2025-02-02,2025-02-27,Science,160,2024.0,Nile Press,Library Database + JSON
+9201.0,1055,Mostafa,Kamel,9.0,Heliopolis,Active,2025-01-04,531,2025-11-24,2025-12-16,Friendship,272,2018.0,Oasis Books,Library Database + JSON
+9253.0,1058,Lina,Mansour,8.0,Heliopolis,Active,2025-07-20,507,2025-06-15,2025-07-10,Science,160,2024.0,Nile Press,Library Database + JSON
+9334.0,1065,Adam,Fahmy,6.0,Zamalek,Active,2025-07-12,507,2025-12-20,2026-01-05,Science,160,2024.0,Nile Press,Library Database + JSON
+9160.0,1030,Reem,Osman,,Nasr City,Active,2025-04-01,501,2024-06-20,2024-07-07,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9180.0,1034,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,529,2024-07-27,2024-08-02,Mystery,298,,Cairo Young Readers,Library Database + JSON
+9344.0,1076,Dina,Wahba,7.0,Shubra,Active,2025-12-13,507,2024-09-12,,Science,160,2024.0,Nile Press,Library Database + JSON
+9004.0,1013,Ziad,Fouad,,Maadi,Active,2025-06-27,519,2025-07-27,2025-08-16,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9224.0,1057,Ahmed,Fahmy,8.0,Heliopolis,Active,2024-01-12,513,2025-05-25,,Science,294,2021.0,Oasis Books,Library Database + JSON
+9235.0,1047,Sara,Rashad,,Heliopolis,Inactive,2024-06-25,516,2024-02-16,,Nature,241,2010.0,Nile Press,Library Database + JSON
+9118.0,1030,Reem,Osman,,Nasr City,Active,2025-04-01,507,2024-05-12,,Science,160,2024.0,Nile Press,Library Database + JSON
+9381.0,1079,Rana,Osman,8.0,Shubra,Active,2024-10-27,507,2025-05-30,2025-06-18,Science,160,2024.0,Nile Press,Library Database + JSON
+9071.0,1003,Bassel,Hegazy,6.0,Maadi,Active,2025-04-23,503,2024-03-25,2024-04-09,Historical,259,,Nile Press,Library Database + JSON
+9220.0,1047,Sara,Rashad,,Heliopolis,Inactive,2024-06-25,507,2025-08-04,,Science,160,2024.0,Nile Press,Library Database + JSON
+9167.0,1028,Hassan,Adel,9.0,Nasr City,Active,2025-11-12,503,2025-12-24,2026-01-02,Historical,259,,Nile Press,Library Database + JSON
+9320.0,1073,Yassin,Kamel,7.0,Zamalek,Inactive,2025-08-26,501,2025-07-19,2025-08-13,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9300.0,1061,Ziad,Fahmy,9.0,Zamalek,Inactive,2023-04-27,528,2024-08-15,2024-09-02,Nature,114,2010.0,Delta House,Library Database + JSON
+9364.0,1077,Lina,Rashad,6.0,Shubra,Active,2023-07-08,513,2024-08-18,2024-09-07,Science,294,2021.0,Oasis Books,Library Database + JSON
+9035.0,1020,Rana,Fouad,6.0,Maadi,Active,2025-12-04,501,2024-08-01,2024-08-23,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9382.0,1076,Dina,Wahba,7.0,Shubra,Active,2025-12-13,507,2025-02-26,2025-03-08,Science,160,2024.0,Nile Press,Library Database + JSON
+9133.0,1034,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,519,2025-05-28,2025-06-24,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9276.0,1050,Fares,Adel,6.0,Heliopolis,Inactive,2025-09-10,514,2025-06-28,2025-07-08,Science Fiction,328,2023.0,Cairo Young Readers,Library Database + JSON
+9104.0,1018,Ahmed,Shafik,9.0,Maadi,Active,2023-01-28,507,2024-05-15,,Science,160,2024.0,Nile Press,Library Database + JSON
+9367.0,1079,Rana,Osman,8.0,Shubra,Active,2024-10-27,507,2024-03-19,2024-03-28,Science,160,2024.0,Nile Press,Library Database + JSON
+9373.0,1079,Rana,Osman,8.0,Shubra,Active,2024-10-27,508,2024-03-20,2024-04-19,Science,306,2011.0,Oasis Books,Library Database + JSON
+9217.0,1047,Sara,Rashad,,Heliopolis,Inactive,2024-06-25,530,2024-04-07,,Adventure,208,2012.0,Oasis Books,Library Database + JSON
+9022.0,1010,Nour,Nabil,6.0,Maadi,Active,2024-05-15,507,2025-11-14,2025-12-03,Science,160,2024.0,Nile Press,Library Database + JSON
+9065.0,1016,Dina,Rashad,8.0,Maadi,Active,2023-04-24,509,2024-12-21,,Mystery,221,2011.0,Nile Press,Library Database + JSON
+9099.0,1018,Ahmed,Shafik,9.0,Maadi,Active,2023-01-28,506,2025-10-10,2025-11-09,Friendship,183,,Nile Press,Library Database + JSON
+9109.0,1034,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,512,2024-08-20,2024-09-14,Adventure,238,2022.0,Delta House,Library Database + JSON
+9086.0,1018,Ahmed,Shafik,9.0,Maadi,Active,2023-01-28,501,2024-06-20,2024-06-29,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9089.0,1010,Nour,Nabil,6.0,Maadi,Active,2024-05-15,507,2025-06-22,2025-07-22,Science,160,2024.0,Nile Press,Library Database + JSON
+9230.0,1050,Fares,Adel,6.0,Heliopolis,Inactive,2025-09-10,501,2025-09-10,2025-10-07,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9062.0,1010,Nour,Nabil,6.0,Maadi,Active,2024-05-15,520,2024-07-28,2024-08-26,Science Fiction,136,2009.0,Oasis Books,Library Database + JSON
+9076.0,1008,Ziad,Saleh,8.0,Maadi,Active,2025-10-28,529,2025-12-12,2025-12-20,Mystery,298,,Cairo Young Readers,Library Database + JSON
+9265.0,1049,Ahmed,Gamal,6.0,Heliopolis,Active,2023-06-10,513,2024-08-12,2024-09-10,Science,294,2021.0,Oasis Books,Library Database + JSON
+9258.0,1050,Fares,Adel,6.0,Heliopolis,Inactive,2025-09-10,529,2025-12-07,2025-12-21,Mystery,298,,Cairo Young Readers,Library Database + JSON
+9203.0,1057,Ahmed,Fahmy,8.0,Heliopolis,Active,2024-01-12,501,2025-10-25,,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9041.0,1010,Nour,Nabil,6.0,Maadi,Active,2024-05-15,506,2025-02-22,2025-03-19,Friendship,183,,Nile Press,Library Database + JSON
+9154.0,1030,Reem,Osman,,Nasr City,Active,2025-04-01,525,2025-05-18,2025-05-26,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9285.0,1071,Jana,Hegazy,8.0,Zamalek,Active,2024-09-27,513,2025-02-24,,Science,294,2021.0,Oasis Books,Library Database + JSON
+9121.0,1027,Mostafa,Fouad,9.0,Nasr City,Active,2023-09-25,522,2025-02-24,2025-03-14,Mystery,104,2016.0,Cairo Young Readers,Library Database + JSON
+9244.0,1050,Fares,Adel,6.0,Heliopolis,Inactive,2025-09-10,507,2025-04-23,2025-05-06,Science,160,2024.0,Nile Press,Library Database + JSON
+9275.0,1047,Sara,Rashad,,Heliopolis,Inactive,2024-06-25,507,2025-09-21,2025-10-08,Science,160,2024.0,Nile Press,Library Database + JSON
+9215.0,1044,Sherif,Saleh,7.0,Heliopolis,Active,2024-02-19,507,2024-02-07,,Science,160,2024.0,Nile Press,Library Database + JSON
+9268.0,1047,Sara,Rashad,,Heliopolis,Inactive,2024-06-25,503,2025-06-16,2025-07-14,Historical,259,,Nile Press,Library Database + JSON
+9314.0,1072,Seif,Zaki,9.0,Zamalek,Active,2025-10-21,522,2024-08-13,2024-09-02,Mystery,104,2016.0,Cairo Young Readers,Library Database + JSON
+9299.0,1072,Seif,Zaki,9.0,Zamalek,Active,2025-10-21,521,2024-01-04,2024-01-23,Science,211,2024.0,Cairo Young Readers,Library Database + JSON
+9353.0,1075,Malak,Fahmy,7.0,Shubra,Active,2024-10-28,528,2025-12-13,2025-12-30,Nature,114,2010.0,Delta House,Library Database + JSON
+9117.0,1026,Nada,Saleh,7.0,Nasr City,Inactive,2023-11-16,501,2025-09-13,,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9212.0,1044,Sherif,Saleh,7.0,Heliopolis,Active,2024-02-19,512,2024-09-14,,Adventure,238,2022.0,Delta House,Library Database + JSON
+9278.0,1047,Sara,Rashad,,Heliopolis,Inactive,2024-06-25,506,2024-03-12,2024-04-02,Friendship,183,,Nile Press,Library Database + JSON
+9177.0,1027,Mostafa,Fouad,9.0,Nasr City,Active,2023-09-25,513,2024-01-18,,Science,294,2021.0,Oasis Books,Library Database + JSON
+9044.0,1018,Ahmed,Shafik,9.0,Maadi,Active,2023-01-28,503,2024-10-07,,Historical,259,,Nile Press,Library Database + JSON
+9329.0,1062,Tarek,Adel,7.0,Zamalek,Active,2023-01-22,513,2025-03-06,,Science,294,2021.0,Oasis Books,Library Database + JSON
+9078.0,1008,Ziad,Saleh,8.0,Maadi,Active,2025-10-28,521,2024-09-21,2024-10-12,Science,211,2024.0,Cairo Young Readers,Library Database + JSON
+9032.0,1011,Menna,Halim,8.0,Maadi,Active,2024-04-22,501,2024-11-24,2024-12-11,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9289.0,1072,Seif,Zaki,9.0,Zamalek,Active,2025-10-21,522,2025-09-09,2025-09-19,Mystery,104,2016.0,Cairo Young Readers,Library Database + JSON
+9138.0,1039,Nada,Riad,7.0,Nasr City,Active,,516,2025-08-22,2025-08-31,Nature,241,2010.0,Nile Press,Library Database + JSON
+9306.0,1074,Mostafa,Saleh,8.0,Zamalek,Active,2025-11-21,510,2024-08-03,2024-08-10,Mystery,134,2013.0,Cairo Young Readers,Library Database + JSON
+9239.0,1050,Fares,Adel,6.0,Heliopolis,Inactive,2025-09-10,519,2025-02-10,2025-02-22,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9226.0,1044,Sherif,Saleh,7.0,Heliopolis,Active,2024-02-19,519,2025-03-18,,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9135.0,1034,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,506,2025-01-12,2025-01-28,Friendship,183,,Nile Press,Library Database + JSON
+9023.0,1018,Ahmed,Shafik,9.0,Maadi,Active,2023-01-28,503,2025-08-04,2025-08-27,Historical,259,,Nile Press,Library Database + JSON
+9229.0,1047,Sara,Rashad,,Heliopolis,Inactive,2024-06-25,501,2025-11-16,2025-12-08,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9096.0,1022,Youssef,Fouad,7.0,Maadi,Active,2025-02-28,501,2025-02-17,2025-03-17,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9312.0,1068,Layla,Hegazy,8.0,Zamalek,Inactive,2025-02-24,506,2025-12-01,,Friendship,183,,Nile Press,Library Database + JSON
+9196.0,1030,Reem,Osman,,Nasr City,Active,2025-04-01,526,2025-01-15,2025-02-02,Science Fiction,125,2016.0,Delta House,Library Database + JSON
+9190.0,1030,Reem,Osman,,Nasr City,Active,2025-04-01,502,2025-12-04,2025-12-18,Adventure,109,2018.0,Delta House,Library Database + JSON
+9095.0,1002,Fares,Saleh,9.0,Maadi,Active,,507,2024-06-25,2024-07-07,Science,160,2024.0,Nile Press,Library Database + JSON
+9199.0,1053,Adam,Shafik,9.0,Heliopolis,Active,2024-01-03,518,2024-11-28,2024-12-08,Adventure,163,2011.0,Delta House,Library Database + JSON
+9279.0,1047,Sara,Rashad,,Heliopolis,Inactive,2024-06-25,514,2025-07-06,2025-07-28,Science Fiction,328,2023.0,Cairo Young Readers,Library Database + JSON
+9047.0,1007,Sherif,Fouad,6.0,Maadi,Active,2025-08-18,507,2024-10-11,2024-10-24,Science,160,2024.0,Nile Press,Library Database + JSON
+9351.0,1075,Malak,Fahmy,7.0,Shubra,Active,2024-10-28,514,2024-01-03,2024-01-28,Science Fiction,328,2023.0,Cairo Young Readers,Library Database + JSON
+9251.0,1046,Amir,Fouad,7.0,Heliopolis,Active,2025-12-11,507,2024-06-09,,Science,160,2024.0,Nile Press,Library Database + JSON
+9242.0,1047,Sara,Rashad,,Heliopolis,Inactive,2024-06-25,520,2025-06-01,2025-07-01,Science Fiction,136,2009.0,Oasis Books,Library Database + JSON
+9204.0,1057,Ahmed,Fahmy,8.0,Heliopolis,Active,2024-01-12,506,2024-02-20,2024-03-15,Friendship,183,,Nile Press,Library Database + JSON
+9158.0,1040,Dina,Adel,9.0,Nasr City,Active,2025-12-26,513,2025-03-07,2025-03-24,Science,294,2021.0,Oasis Books,Library Database + JSON
+9060.0,1010,Nour,Nabil,6.0,Maadi,Active,2024-05-15,527,2024-05-20,2024-05-28,Nature,328,2017.0,Delta House,Library Database + JSON
+9243.0,1060,Layla,Wahba,7.0,Heliopolis,Active,2024-03-26,513,2025-09-13,2025-10-09,Science,294,2021.0,Oasis Books,Library Database + JSON
+9042.0,1010,Nour,Nabil,6.0,Maadi,Active,2024-05-15,509,2024-02-28,,Mystery,221,2011.0,Nile Press,Library Database + JSON
+9150.0,1024,Youssef,Hegazy,8.0,Nasr City,Inactive,2024-01-04,507,2025-10-14,2025-10-24,Science,160,2024.0,Nile Press,Library Database + JSON
+9377.0,1034,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,507,2025-03-25,2025-04-06,Science,160,2024.0,Nile Press,Library Database + JSON
+9356.0,1076,Dina,Wahba,7.0,Shubra,Active,2025-12-13,501,2025-03-14,2025-04-13,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9014.0,1010,Nour,Nabil,6.0,Maadi,Active,2024-05-15,519,2024-06-28,2024-07-20,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9346.0,1076,Dina,Wahba,7.0,Shubra,Active,2025-12-13,519,2024-04-27,,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9103.0,1003,Bassel,Hegazy,6.0,Maadi,Active,2025-04-23,513,2025-09-04,2025-09-25,Science,294,2021.0,Oasis Books,Library Database + JSON
+9246.0,1044,Sherif,Saleh,7.0,Heliopolis,Active,2024-02-19,529,2025-06-25,2025-07-04,Mystery,298,,Cairo Young Readers,Library Database + JSON
+9308.0,1072,Seif,Zaki,9.0,Zamalek,Active,2025-10-21,525,2024-02-17,2024-03-12,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9321.0,1070,Ahmed,Zaki,9.0,Zamalek,Active,2025-07-22,501,2025-12-28,2026-01-09,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9045.0,1008,Ziad,Saleh,8.0,Maadi,Active,2025-10-28,520,2024-05-28,,Science Fiction,136,2009.0,Oasis Books,Library Database + JSON
+9219.0,1047,Sara,Rashad,,Heliopolis,Inactive,2024-06-25,506,2025-05-13,2025-06-07,Friendship,183,,Nile Press,Library Database + JSON
+9002.0,1020,Rana,Fouad,6.0,Maadi,Active,2025-12-04,515,2024-12-06,2024-12-11,Poetry,316,2022.0,Cairo Young Readers,Library Database + JSON
+9185.0,1026,Nada,Saleh,7.0,Nasr City,Inactive,2023-11-16,519,2025-10-22,2025-11-01,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9359.0,1077,Lina,Rashad,6.0,Shubra,Active,2023-07-08,501,2025-01-26,,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9079.0,1008,Ziad,Saleh,8.0,Maadi,Active,2025-10-28,520,2025-12-27,2026-01-05,Science Fiction,136,2009.0,Oasis Books,Library Database + JSON
+9252.0,1054,Retaj,Fahmy,6.0,Heliopolis,Inactive,2024-03-21,513,2024-08-04,2024-08-09,Science,294,2021.0,Oasis Books,Library Database + JSON
+9282.0,1057,Ahmed,Fahmy,8.0,Heliopolis,Active,2024-01-12,530,2025-07-22,2025-08-18,Adventure,208,2012.0,Oasis Books,Library Database + JSON
+9293.0,1071,Jana,Hegazy,8.0,Zamalek,Active,2024-09-27,525,2025-08-05,2025-08-18,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9202.0,1047,Sara,Rashad,,Heliopolis,Inactive,2024-06-25,506,2025-06-05,2025-07-03,Friendship,183,,Nile Press,Library Database + JSON
+9026.0,1018,Ahmed,Shafik,9.0,Maadi,Active,2023-01-28,506,2025-04-21,2025-05-04,Friendship,183,,Nile Press,Library Database + JSON
+9050.0,1003,Bassel,Hegazy,6.0,Maadi,Active,2025-04-23,521,2025-08-21,,Science,211,2024.0,Cairo Young Readers,Library Database + JSON
+9122.0,1034,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,525,2025-06-04,2025-06-30,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9153.0,1030,Reem,Osman,,Nasr City,Active,2025-04-01,530,2024-10-12,2024-10-26,Adventure,208,2012.0,Oasis Books,Library Database + JSON
+9145.0,1034,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,501,2025-11-10,2025-12-10,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9339.0,1073,Yassin,Kamel,7.0,Zamalek,Inactive,2025-08-26,501,2025-02-02,,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9136.0,1030,Reem,Osman,,Nasr City,Active,2025-04-01,532,2024-10-03,2024-10-20,Friendship,337,2017.0,Oasis Books,Library Database + JSON
+9277.0,1057,Ahmed,Fahmy,8.0,Heliopolis,Active,2024-01-12,519,2025-10-19,2025-10-28,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9284.0,1062,Tarek,Adel,7.0,Zamalek,Active,2023-01-22,513,2025-09-27,2025-10-26,Science,294,2021.0,Oasis Books,Library Database + JSON
+9210.0,1044,Sherif,Saleh,7.0,Heliopolis,Active,2024-02-19,507,2025-09-11,2025-09-29,Science,160,2024.0,Nile Press,Library Database + JSON
+9098.0,1008,Ziad,Saleh,8.0,Maadi,Active,2025-10-28,525,2024-12-15,2024-12-31,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9106.0,1034,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,501,2025-08-20,2025-08-27,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9170.0,1034,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,522,2025-10-16,2025-10-28,Mystery,104,2016.0,Cairo Young Readers,Library Database + JSON
+9028.0,1017,Adam,Badr,9.0,Maadi,Active,2025-07-12,507,2025-01-19,2025-01-28,Science,160,2024.0,Nile Press,Library Database + JSON
+9081.0,1017,Adam,Badr,9.0,Maadi,Active,2025-07-12,502,2025-08-25,2025-09-17,Adventure,109,2018.0,Delta House,Library Database + JSON
+9223.0,1050,Fares,Adel,6.0,Heliopolis,Inactive,2025-09-10,510,2024-04-11,2024-05-04,Mystery,134,2013.0,Cairo Young Readers,Library Database + JSON
+9311.0,1065,Adam,Fahmy,6.0,Zamalek,Active,2025-07-12,507,2025-06-26,2025-07-09,Science,160,2024.0,Nile Press,Library Database + JSON
+9085.0,1018,Ahmed,Shafik,9.0,Maadi,Active,2023-01-28,525,2025-08-19,2025-09-18,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9335.0,1065,Adam,Fahmy,6.0,Zamalek,Active,2025-07-12,513,2024-12-18,2024-12-30,Science,294,2021.0,Oasis Books,Library Database + JSON
+9221.0,1055,Mostafa,Kamel,9.0,Heliopolis,Active,2025-01-04,520,2025-04-12,2025-04-18,Science Fiction,136,2009.0,Oasis Books,Library Database + JSON
+9016.0,1016,Dina,Rashad,8.0,Maadi,Active,2023-04-24,527,2024-12-03,2024-12-11,Nature,328,2017.0,Delta House,Library Database + JSON
+9361.0,1075,Malak,Fahmy,7.0,Shubra,Active,2024-10-28,524,2024-04-19,,Historical,114,2016.0,Cairo Young Readers,Library Database + JSON
+9248.0,1044,Sherif,Saleh,7.0,Heliopolis,Active,2024-02-19,514,2025-07-01,2025-07-18,Science Fiction,328,2023.0,Cairo Young Readers,Library Database + JSON
+9315.0,1068,Layla,Hegazy,8.0,Zamalek,Inactive,2025-02-24,501,2024-06-11,2024-07-04,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9305.0,1062,Tarek,Adel,7.0,Zamalek,Active,2023-01-22,519,2024-01-23,2024-01-31,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9174.0,1024,Youssef,Hegazy,8.0,Nasr City,Inactive,2024-01-04,528,2025-12-16,2026-01-07,Nature,114,2010.0,Delta House,Library Database + JSON
+9048.0,1003,Bassel,Hegazy,6.0,Maadi,Active,2025-04-23,519,2024-12-03,2025-01-01,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9281.0,1044,Sherif,Saleh,7.0,Heliopolis,Active,2024-02-19,525,2024-06-01,2024-06-12,Adventure,297,2015.0,Oasis Books,Library Database + JSON
+9039.0,1018,Ahmed,Shafik,9.0,Maadi,Active,2023-01-28,513,2024-07-21,2024-08-10,Science,294,2021.0,Oasis Books,Library Database + JSON
+9083.0,1011,Menna,Halim,8.0,Maadi,Active,2024-04-22,516,2025-10-02,2025-10-09,Nature,241,2010.0,Nile Press,Library Database + JSON
+9088.0,1003,Bassel,Hegazy,6.0,Maadi,Active,2025-04-23,519,2025-09-17,2025-10-03,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9176.0,1027,Mostafa,Fouad,9.0,Nasr City,Active,2023-09-25,501,2024-11-08,2024-11-26,Adventure,128,2017.0,Nile Press,Library Database + JSON
+9054.0,1013,Ziad,Fouad,,Maadi,Active,2025-06-27,510,2024-11-21,,Mystery,134,2013.0,Cairo Young Readers,Library Database + JSON
+9134.0,1037,Retaj,Kamel,,Nasr City,Inactive,2023-08-26,516,2025-09-08,2025-09-19,Nature,241,2010.0,Nile Press,Library Database + JSON
+9164.0,1034,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,507,2024-12-02,2024-12-12,Science,160,2024.0,Nile Press,Library Database + JSON
+9011.0,1022,Youssef,Fouad,7.0,Maadi,Active,2025-02-28,513,2024-03-17,,Science,294,2021.0,Oasis Books,Library Database + JSON
+9151.0,1034,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,528,2025-04-25,2025-05-16,Nature,114,2010.0,Delta House,Library Database + JSON
+9018.0,1003,Bassel,Hegazy,6.0,Maadi,Active,2025-04-23,522,2025-06-12,2025-06-24,Mystery,104,2016.0,Cairo Young Readers,Library Database + JSON
+9038.0,1007,Sherif,Fouad,6.0,Maadi,Active,2025-08-18,506,2024-07-15,2024-08-12,Friendship,183,,Nile Press,Library Database + JSON
+9232.0,1044,Sherif,Saleh,7.0,Heliopolis,Active,2024-02-19,513,2025-05-26,2025-06-11,Science,294,2021.0,Oasis Books,Library Database + JSON
+9084.0,1008,Ziad,Saleh,8.0,Maadi,Active,2025-10-28,511,2024-06-27,2024-07-22,Historical,117,2016.0,Nile Press,Library Database + JSON
+9116.0,1024,Youssef,Hegazy,8.0,Nasr City,Inactive,2024-01-04,519,2025-01-10,2025-02-09,Friendship,157,2014.0,Nile Press,Library Database + JSON
+9352.0,1076,Dina,Wahba,7.0,Shubra,Active,2025-12-13,501,2025-02-02,,Adventure,128,2017.0,Nile Press,Library Database + JSON
+,1026,Nada,Saleh,7.0,Nasr City,Inactive,2023-11-16,522,2025-07-11,,Mystery,104,2016.0,Cairo Young Readers,Reading Kickoff HTML
+,1049,Ahmed,Gamal,6.0,Heliopolis,Active,2023-06-10,520,2025-07-11,,Science Fiction,136,2009.0,Oasis Books,Reading Kickoff HTML
+,1062,Tarek,Adel,7.0,Zamalek,Active,2023-01-22,525,2025-07-05,,Adventure,297,2015.0,Oasis Books,Reading Kickoff HTML
+,1065,Adam,Fahmy,6.0,Zamalek,Active,2025-07-12,520,2025-07-07,,Science Fiction,136,2009.0,Oasis Books,Reading Kickoff HTML
+,1009,Hassan,Saleh,6.0,Maadi,Active,2025-04-25,503,2025-07-09,,Historical,259,,Nile Press,Reading Kickoff HTML
+,1063,,,,Unknown,Unknown,,522,2025-07-07,,Mystery,104,2016.0,Cairo Young Readers,Reading Kickoff HTML
+,1022,Youssef,Fouad,7.0,Maadi,Active,2025-02-28,511,2025-07-12,,Historical,117,2016.0,Nile Press,Reading Kickoff HTML
+,1029,,,,Unknown,Unknown,,523,2025-07-09,,Historical,276,2018.0,Oasis Books,Reading Kickoff HTML
+,1005,Youssef,Halim,9.0,Maadi,Active,2024-05-05,513,2025-07-10,,Science,294,2021.0,Oasis Books,Reading Kickoff HTML
+,1058,Lina,Mansour,8.0,Heliopolis,Active,2025-07-20,518,2025-07-08,,Adventure,163,2011.0,Delta House,Reading Kickoff HTML
+,1002,Fares,Saleh,9.0,Maadi,Active,,521,2025-07-08,,Science,211,2024.0,Cairo Young Readers,Reading Kickoff HTML
+,1041,Nada,Rashad,7.0,Nasr City,Active,2024-04-02,504,2025-07-05,,Science,319,2009.0,Cairo Young Readers,Reading Kickoff HTML
+,1055,Mostafa,Kamel,9.0,Heliopolis,Active,2025-01-04,526,2025-07-11,,Science Fiction,125,2016.0,Delta House,Reading Kickoff HTML
+,1061,Ziad,Fahmy,9.0,Zamalek,Inactive,2023-04-27,513,2025-07-06,,Science,294,2021.0,Oasis Books,Reading Kickoff HTML
+,1012,,,,Unknown,Unknown,,509,2025-07-11,,Mystery,221,2011.0,Nile Press,Reading Kickoff HTML
+,1007,Sherif,Fouad,6.0,Maadi,Active,2025-08-18,510,2025-07-07,,Mystery,134,2013.0,Cairo Young Readers,Reading Kickoff HTML
+,1073,Yassin,Kamel,7.0,Zamalek,Inactive,2025-08-26,530,2025-07-07,,Adventure,208,2012.0,Oasis Books,Reading Kickoff HTML
+,1003,Bassel,Hegazy,6.0,Maadi,Active,2025-04-23,501,2025-07-08,,Adventure,128,2017.0,Nile Press,Reading Kickoff HTML
+,1017,Adam,Badr,9.0,Maadi,Active,2025-07-12,507,2025-07-11,,Science,160,2024.0,Nile Press,Reading Kickoff HTML
+,1061,Ziad,Fahmy,9.0,Zamalek,Inactive,2023-04-27,504,2025-07-06,,Science,319,2009.0,Cairo Young Readers,Reading Kickoff HTML
+,1041,Nada,Rashad,7.0,Nasr City,Active,2024-04-02,512,2025-07-06,,Adventure,238,2022.0,Delta House,Reading Kickoff HTML
