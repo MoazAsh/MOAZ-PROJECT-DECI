@@ -1,0 +1,7 @@
+84dc9b8 Task 3.1: Group and analyze checkouts by neighborhood
+24ca944 Task 2.2: Remove duplicates, drop orphan records, and export task2_cleaned_data.csv
+23dd48f Task 2.1: Inspect missing values and duplicate records in combined dataset
+a33c6f0 Task 1: Save combined dataset to CSV and add reflection text
+f1fb73b Task 1.1: Connect to SQLite database and read initial tables
+eceaf9f Task 1: Load and inspect initial SQL tables
+c631d26 Initial project setup
