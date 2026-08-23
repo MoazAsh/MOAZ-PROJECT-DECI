@@ -1,7 +1,27 @@
-84dc9b8 Task 3.1: Group and analyze checkouts by neighborhood
-24ca944 Task 2.2: Remove duplicates, drop orphan records, and export task2_cleaned_data.csv
-23dd48f Task 2.1: Inspect missing values and duplicate records in combined dataset
-a33c6f0 Task 1: Save combined dataset to CSV and add reflection text
-f1fb73b Task 1.1: Connect to SQLite database and read initial tables
-eceaf9f Task 1: Load and inspect initial SQL tables
-c631d26 Initial project setup
+﻿Git Repository Setup
+====================
+
+Repository initialized using:
+git init
+
+Staged commits:
+====================
+
+a153ec5 Task 1 Step 0 - Set up data gathering
+b324680 Task 1 Step 1 - Inspect database tables
+c1dcecf Task 1 Step 2 - Fetch SQL tables
+d9a1a5e Task 1 Step 3 - Join members and checkouts
+f0b7295 Task 1 Step 4 - Inspect SQL dataset
+585b3b3 Task 1 Step 5 - Inspect book catalog
+dee730c Task 1 Step 6 - Merge SQL with JSON catalog
+6a7ee8d Task 1 Step 6 - Complete catalog merge
+5570320 Task 1 Step 7 - Parse HTML and combine data
+2c1dea1 Task 1 Reflection - Summarize data integration
+a6724de Task 2 Step 1 - Load combined dataset
+0ed52fa Task 2 Step 2 - Handle missing values
+bce59f4 Task 2 Step 3 - Remove duplicates and orphan records
+0d678f5 Task 2 - Data Integrity Report
+3d5a0b6 Task 3 Step 1 - Load cleaned dataset
+1be11c2 Task 3 Step 2 - Add version control log
+1451aef Task 3 Step 3 - Data fairness reflection
+01938c1 Task 3 Step 4 - Final project verification
