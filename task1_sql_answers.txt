@@ -1,0 +1,97 @@
+TASK 1 - SQL ANSWERS AND WEB-VS-API REFLECTION
+
+--- CELL 1 ---
+# ==========================================
+# Task 1 - Step 2: Connect to Library Database
+# ==========================================
+
+conn = sqlite3.connect("Library Database . db")
+
+print("Connected to Library Database successfully!")# ==========================================
+
+
+--- CELL 2 ---
+# ==========================================
+# Task 1 - Step 3: Inspect Database Tables
+# ==========================================
+
+tables = pd.read_sql_query("""
+    SELECT name
+    FROM sqlite_master
+    WHERE type='table'
+""", conn)
+
+display(tables)
+
+--- CELL 3 ---
+# ==========================================
+# Task 1 - Step 4: SQL JOIN
+# ==========================================
+
+sql_query = """
+SELECT
+    c.checkout_id,
+    c.member_id,
+    m.first_name,
+    m.last_name,
+    m.grade,
+    m.neighborhood,
+    m.membership_status,
+    m.join_date,
+    c.book_id,
+    c.checkout_date,
+    c.return_date
+FROM checkouts AS c
+INNER JOIN members AS m
+    ON c.member_id = m.member_id
+WHERE c.member_id IS NOT NULL
+"""
+
+checkout_member_data = pd.read_sql_query(sql_query, conn)
+
+print("Records after SQL JOIN:", len(checkout_member_data))
+display(checkout_member_data.head())
+
+--- CELL 4 ---
+# ==========================================
+# Task 1 - Step 5: Close Database Connection
+# ==========================================
+
+conn.close()
+
+print("Database connection closed.")
+
+--- TASK 1 REFLECTION ---
+# ==========================================
+# Task 1 - Step 10: Align HTML Structure
+# ==========================================
+
+html_events["checkout_id"] = pd.NA
+html_events["return_date"] = pd.NA
+
+# Add member information
+html_events = html_events.merge(
+    checkout_member_data[
+        [
+            "member_id",
+            "first_name",
+            "last_name",
+            "grade",
+            "neighborhood",
+            "membership_status",
+            "join_date"
+        ]
+    ].drop_duplicates("member_id"),
+    on="member_id",
+    how="left"
+)
+
+# Add book information
+html_events = html_events.merge(
+    book_metadata,
+    on="book_id",
+    how="left"
+)
+
+print("HTML data prepared successfully!")
+display(html_events.head())

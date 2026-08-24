@@ -1,0 +1,13 @@
+# ==========================================
+# Task 1 - Step 14: Final Inspection
+# ==========================================
+
+print("Shape:", full_dataset.shape)
+
+print("\nMissing values:")
+display(full_dataset.isna().sum())
+
+print("\nSource counts:")
+display(full_dataset["source"].value_counts())
+
+display(full_dataset.tail())
